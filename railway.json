@@ -1,6 +1,5 @@
 {
-  "$schema": "https://railway.com/railway.schema.json",
   "deploy": {
-    "startCommand": "python 'bot (58).py'"
+    "startCommand": "python bot.py"
   }
 }
