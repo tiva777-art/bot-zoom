@@ -1,5 +1,0 @@
-{
-  "deploy": {
-    "startCommand": "Felix_familybot_hany.py"
-  }
-}
